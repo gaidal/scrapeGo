@@ -637,7 +637,7 @@
 (;AB[ab][ae][bc][be][ce][da][de][ea][eb][ec][ed][ee]AW[ac][ad][bd][ca][cb][cd][db][dc][dd]C[problem 636])
 (;AB[ad][bd][cd][da][db][dc][dd]AW[ab][ae][be][cb][cc][ce][de][ea][eb][ec][ed][ee]C[problem 637])
 (;AB[aa][ad][bd][cd][da][db][dc][dd]AW[bc][be][bf][ca][cb][cc][de][eb][ec][ed][ee]C[problem 638])
-(;AB[da][db][ed][fd][ga][gb][gc][gd]AW[eb][ec][ee][ef][fc][ge][hb][hc][hd][he]C[problem 639])
+(;AB[aa][da][ab][db][dc][bd][cd][dd]AW[bb][eb][bc][cc][ec][ed][be][de][ee][bf]C[problem 639])
 (;AB[aa][ab][bd][cd][da][db][dc][dd]AW[bc][be][bf][cb][cc][de][eb][ec][ed][ee]C[problem 640])
 (;AB[bd][ca][cd][da][db][dc][dd]AW[ba][bb][be][bf][cb][cc][de][ea][eb][ec][ed][ee]C[problem 641])
 (;AB[aa][ad][ba][bd][cd][da][db][dc][dd]AW[ab][ac][ae][bb][bc][be][ce][de][ea][eb][ec][ed]C[problem 642])
